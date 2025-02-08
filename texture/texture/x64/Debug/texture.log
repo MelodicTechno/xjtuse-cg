@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\texture\main.cpp(170,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  texture.vcxproj -> D:\D\mine\cg-hw\texture\x64\Debug\texture.exe

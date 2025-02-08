@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\lecture2\main.cpp(21,39): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(33,47): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(33,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(40,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(41,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(42,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture2\main.cpp(43,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  lecture2.vcxproj -> D:\D\mine\cg-hw\lecture2\x64\Debug\lecture2.exe

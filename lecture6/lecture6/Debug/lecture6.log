@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\lecture6\main.cpp(52,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture6\main.cpp(60,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture6\main.cpp(62,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  lecture6.vcxproj -> D:\D\mine\cg-hw\lecture6\Debug\lecture6.exe

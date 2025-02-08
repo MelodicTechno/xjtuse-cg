@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\lecture4_2\main.cpp(17,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture4_2\main.cpp(17,23): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  lecture4_2.vcxproj -> D:\D\mine\cg-hw\lecture4_2\x64\Debug\lecture4_2.exe

@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\lecture8\main.cpp(25,44): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(25,44): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(25,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(25,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(26,45): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(26,45): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(26,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(26,63): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(27,44): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(27,44): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(27,62): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(27,62): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\D\mine\cg-hw\lecture8\main.cpp(28,45): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\D\mine\cg-hw\lecture8\main.cpp(28,45): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  lecture8.vcxproj -> D:\D\mine\cg-hw\lecture8\x64\Debug\lecture8.exe

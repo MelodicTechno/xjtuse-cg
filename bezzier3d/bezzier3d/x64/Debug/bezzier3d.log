@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\bezzier3d\main.cpp(75,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\D\mine\cg-hw\bezzier3d\main.cpp(75,32): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\D\mine\cg-hw\bezzier3d\main.cpp(75,37): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\D\mine\cg-hw\bezzier3d\main.cpp(77,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\D\mine\cg-hw\bezzier3d\main.cpp(77,36): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\D\mine\cg-hw\bezzier3d\main.cpp(77,41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  bezzier3d.vcxproj -> D:\D\mine\cg-hw\bezzier3d\x64\Debug\bezzier3d.exe

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\ImageMove\main.cpp(12,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  ImageMove.vcxproj -> D:\D\mine\cg-hw\ImageMove\x64\Debug\ImageMove.exe

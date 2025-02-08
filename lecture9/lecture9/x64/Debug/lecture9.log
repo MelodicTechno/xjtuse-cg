@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\D\mine\cg-hw\lecture9\main.cpp(85,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  lecture9.vcxproj -> D:\D\mine\cg-hw\lecture9\x64\Debug\lecture9.exe
